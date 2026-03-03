@@ -1,0 +1,60 @@
+================================================================================
+H1N1 BAM FILTERING REPORT - H3N2 MISMAPPED READ REMOVAL
+================================================================================
+
+Date: Tue Dec 30 13:10:21 CET 2025
+
+INPUT FILE
+----------
+Original BAM: SA_10.sorted.MQ30.primary.bam
+Total reads:  1549782
+
+FILTERING STRATEGY
+------------------
+Removed reads where: H3N2 mapping quality (MAPQ) > H1N1 mapping quality
+Kept reads where: H1N1 MAPQ >= H3N2 MAPQ
+
+OUTPUT RESULTS
+--------------
+Cleaned BAM file: SA_10.sorted.MQ30.primary_clean.bam
+Cleaned BAM index: SA_10.sorted.MQ30.primary_clean.bam.bai
+
+Statistics:
+  - Reads kept:  1549782
+  - Reads removed: 756720
+  - Removal percentage: 48.82%
+
+REFERENCE GENOMES
+-----------------
+H1N1: H1N1pdm09_A_California_07_2009 (single combined reference)
+H3N2: H3N2_A_Perth_16_2009 (all segments combined)
+
+TECHNICAL DETAILS
+-----------------
+- Alignment tool: BWA (Burrows-Wheeler Aligner)
+- Version: 0.7.19
+- Threads used: 4
+- MAPQ (Mapping Quality): Phred-scaled probability that alignment is wrong
+  * Higher MAPQ = more confident alignment
+  * MAPQ 0 = unmapped or poor quality
+  * MAPQ 60 = highest confidence
+
+INTERPRETATION
+---------------
+Reads with H3N2 MAPQ > H1N1 MAPQ indicate reads that are likely H3N2
+contamination and have been removed from the cleaned BAM file.
+
+These 756720 removed reads (48.82% of total) were mismapped and should
+not contribute to downstream analysis of H1N1 sequences.
+
+USAGE
+-----
+Use the cleaned BAM file (SA_10.sorted.MQ30.primary_clean.bam) for all downstream analyses:
+  - Variant calling
+  - Haplotype analysis
+  - Consensus sequence generation
+  - Coverage analysis
+
+The original BAM file (SA_10.sorted.MQ30.primary.bam) is preserved for reference.
+
+================================================================================

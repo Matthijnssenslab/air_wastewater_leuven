@@ -1,0 +1,85 @@
+LOCUS       KJ609209                1001 bp    cRNA    linear   VRL 25-MAR-2015
+DEFINITION  Influenza A virus (A/Perth/16/2009(H3N2)) segment 7 matrix protein
+            2 (M2) and matrix protein 1 (M1) genes, complete cds.
+ACCESSION   KJ609209
+VERSION     KJ609209.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/Perth/16/2009(H3N2))
+  ORGANISM  Influenza A virus (A/Perth/16/2009(H3N2))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1001)
+  AUTHORS   Oler,A.J. and Fabozzi,G.
+  TITLE     Innate immune response of BEAS-2B to influenza A (H3N2) viruses
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1001)
+  AUTHORS   Oler,A.J. and Fabozzi,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2014) Office of Cyber Infrastructure and
+            Computational Biology, National Institute of Allergy and Infectious
+            Diseases, 31 Center Drive, Room 3B62, Bethesda, MD 20892, USA
+COMMENT     GenBank Accession Numbers KJ609203-KJ609210 represent sequences
+            from the 8 segments of Influenza A virus (A/Perth/16/2009(H3N2)).
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo2-bin-LINUX-generic-r240
+            Coverage              :: 5075
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1001
+                     /organism="Influenza A virus (A/Perth/16/2009(H3N2))"
+                     /mol_type="viral cRNA"
+                     /strain="A/Perth/16/2009"
+                     /serotype="H3N2"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:654811"
+                     /segment="7"
+                     /geo_loc_name="Australia"
+                     /collection_date="07-Apr-2009"
+                     /note="passage details: E6, BEAS-2B 1"
+     misc_feature    1..1001
+                     /db_xref="IRD:IRD-Perth.7"
+     gene            15..996
+                     /gene="M2"
+     CDS             join(15..40,729..996)
+                     /gene="M2"
+                     /codon_start=1
+                     /product="matrix protein 2"
+                     /protein_id="AHX37633.1"
+                     /translation="MSLLTEVETPIRNEWGCRCNDSSDPLVVAANIIGILHLILWILD
+                     RLFFKCVYRLFKHGLKRGPSTEGVPESMREEYRKEQQNAVDADDSHFVSIELE"
+     gene            15..773
+                     /gene="M1"
+     CDS             15..773
+                     /gene="M1"
+                     /codon_start=1
+                     /product="matrix protein 1"
+                     /protein_id="AHX37632.1"
+                     /translation="MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALME
+                     WLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDKAVKLYRK
+                     LKREITFHGAKEIALSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHR
+                     SHRQMVATTNPLIKHENRMVLASTTAKAMEQMAGSSEQAAEAMEIASQARQMVQAMRA
+                     IGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK"
+ORIGIN      
+        1 gtagatgttg aaagatgagc cttctaaccg aggtcgaaac gtatgttctc tctatcgttc
+       61 catcaggccc cctcaaagcc gagatcgcgc agagacttga agatgtcttt gctgggaaaa
+      121 acacagatct tgaggctctc atggaatggc taaagacaag accaattctg tcacctctga
+      181 ctaaggggat tttggggttt gtgttcacgc tcaccgtgcc cagtgagcga ggactgcagc
+      241 gtagacgctt tgtccaaaat gccctcaatg ggaatggaga cccaaataac atggacaaag
+      301 cagttaaact gtataggaaa cttaagagag agataacgtt ccatggggcc aaagaaatag
+      361 ctctcagtta ttccgctggt gcacttgcca gttgcatggg cctcatatac aataggatgg
+      421 gggctgtaac cactgaagtg gcatttggcc tggtatgtgc aacatgtgag cagattgctg
+      481 actcccagca caggtctcat aggcagatgg tggcaacaac caatccatta ataaaacatg
+      541 agaacagaat ggttttggcc agcactacag ctaaggctat ggagcaaatg gctggatcaa
+      601 gtgaacaggc agcggaggcc atggagattg ctagtcaggc caggcagatg gtgcaggcaa
+      661 tgagagccat tgggactcat cctagttcca gtactggttt aagagatgat cttcttgaaa
+      721 atttgcagac ctatcagaaa cgaatggggg tgcagatgca acgattcaag tgacccgctt
+      781 gttgttgccg cgaatatcat tgggatcttg cacttgatat tgtggattct tgatcgtctt
+      841 tttttcaaat gcgtctatcg actcttcaaa cacggcctta aaagaggccc ttctacggaa
+      901 ggagtacctg agtctatgag ggaagaatat cgaaaggaac agcagaatgc tgtggatgct
+      961 gacgacagtc attttgtcag catagagttg gagtaaaaaa c
+//
+

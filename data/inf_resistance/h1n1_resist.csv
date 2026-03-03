@@ -1,0 +1,37 @@
+Segment,Strain,Amino acid change,Drug target or importance of the mutation,Resistance level,Source
+NA (N1),A(H1N1)pdm09,H275Y,Oseltamivir; Peramivir,Highly reduced inhibition (HRI),https://www.cdc.gov/flu/treatment/antiviralresistance.html | https://academic.oup.com/jid/article/232/Supplement_3/S169/8287899 
+NA (N1),A(H1N1)pdm09,I223V,Oseltamivir; Peramivir,Reduced inhibition (RI),https://pmc.ncbi.nlm.nih.gov/articles/PMC11600549/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+NA (N1),A(H1N1)pdm09,I223R,Oseltamivir; Peramivir,Reduced inhibition,https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+NA (N1),A(H1N1)pdm09,I223T,Oseltamivir,Reduced inhibition,https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+NA (N1),A(H1N1)pdm09,S247N,Oseltamivir,Reduced susceptibility,https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+NA (N1),A(H1N1)pdm09,N295S,Oseltamivir,Reduced susceptibility,https://pmc.ncbi.nlm.nih.gov/articles/PMC11600549/ 
+NA (N1),A(H1N1)pdm09,Q136K,Zanamivir; Peramivir; Laninamivir,Highly resistant,https://pmc.ncbi.nlm.nih.gov/articles/PMC11600549/
+NA (N1),A(H1N1)pdm09,Y155H,Oseltamivir; Zanamivir; Peramivir,30-100 fold reduced,https://pmc.ncbi.nlm.nih.gov/articles/PMC3772742/
+NA (N1),A(H1N1)pdm09,V114I,Oseltamivir; Zanamivir; Peramivir,Reduced susceptibility (small),https://pmc.ncbi.nlm.nih.gov/articles/PMC3772742/
+NA (N1),A(H1N1)pdm09,D199G,Oseltamivir,Reduced,https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+NA (N1),A(H1N1)pdm09,D199Y,Oseltamivir,Reduced,https://pmc.ncbi.nlm.nih.gov/articles/PMC12270646/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,I38T,Baloxavir marboxil,30-50 fold (H1N1); >50 fold (H3N2),https://www.nature.com/articles/s41598-018-27890-4 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10786730/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,I38M,Baloxavir marboxil,Reduced susceptibility,https://www.nature.com/articles/s41598-018-27890-4 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10786730/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,I38F,Baloxavir marboxil,24-fold (H5N1),https://pmc.ncbi.nlm.nih.gov/articles/PMC10786730/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,I38N,Baloxavir marboxil,Reduced (less than I38T),https://wwwnc.cdc.gov/eid/article/31/5/24-1123_article
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,I38L,Baloxavir marboxil,14.1-fold reduced,https://journals.asm.org/doi/10.1128/aac.00009-22 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9012239/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,E199D,Baloxavir marboxil,14.1-fold reduced,https://journals.asm.org/doi/10.1128/aac.00009-22 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9012239/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,E23K,Baloxavir marboxil,2-5 fold reduced,https://www.sciencedirect.com/science/article/abs/pii/S0166354220302217 | https://www.nature.com/articles/s41598-018-27890-4
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,E23G,Baloxavir marboxil,Reduced susceptibility,https://pmc.ncbi.nlm.nih.gov/articles/PMC10748225/
+PA (Cap-Dependent Endonuclease),A(H1N1)pdm09,A37T,Baloxavir marboxil,Reduced susceptibility,https://pmc.ncbi.nlm.nih.gov/articles/PMC10373543/
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,S31N,Amantadine; Rimantadine,Near universal (>99% circulating),https://pmc.ncbi.nlm.nih.gov/articles/PMC5404498/ | https://www.who.int/teams/global-influenza-programme/laboratory-network/quality-assurance/antiviral-susceptibility-influenza
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,L26F,Amantadine; Rimantadine,Rare clinically,https://pmc.ncbi.nlm.nih.gov/articles/PMC5404498/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC547263/
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,V27A,Amantadine; Rimantadine,Predominant in H1N1 historically,https://pmc.ncbi.nlm.nih.gov/articles/PMC547263/ 
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,A30T,Amantadine; Rimantadine,Rare,https://pmc.ncbi.nlm.nih.gov/articles/PMC5404498/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC547263/
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,G34E,Amantadine; Rimantadine,Rare,https://pmc.ncbi.nlm.nih.gov/articles/PMC5404498/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC547263/
+M2 (Ion Channel; Adamantane),A(H1N1)pdm09,V27A/S31N,Amantadine; Rimantadine,Synergistic effects reduced,https://pmc.ncbi.nlm.nih.gov/articles/PMC547263/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,K130N,Oseltamivir; Zanamivir (indirect),10-fold oseltamivir resistance,https://www.nature.com/articles/s41467-025-66307-5 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12749811/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,K130E,Oseltamivir; Zanamivir,Stronger resistance but high fitness cost,https://pmc.ncbi.nlm.nih.gov/articles/PMC12749811/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,D225G,Compensatory (with NA mutations),Rescues small-plaque phenotype of Y155H,https://pmc.ncbi.nlm.nih.gov/articles/PMC3772742/ | https://academic.oup.com/jid/article/201/10/1517/992777
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,D225N,Compensatory (with NA mutations),Reduced drug susceptibility,https://pmc.ncbi.nlm.nih.gov/articles/PMC3772742/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,N156K,Compensatory,Co-occurs with K130N,https://www.nature.com/articles/s41467-025-66307-5
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,A186T,Compensatory,Co-occurs with K130N,https://www.nature.com/articles/s41467-025-66307-5
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,Q189E,Compensatory,Receptor binding diversity,https://pmc.ncbi.nlm.nih.gov/articles/PMC11118561/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,E224A,Compensatory,Clade-defining (5a.2a),https://pmc.ncbi.nlm.nih.gov/articles/PMC11118561/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,P137S,Compensatory,Clade-defining (5a.2a.1),https://pmc.ncbi.nlm.nih.gov/articles/PMC11118561/
+HA (Receptor Binding; Compensatory),A(H1N1)pdm09,K142R,Compensatory,Clade-defining (5a.2a.1),https://pmc.ncbi.nlm.nih.gov/articles/PMC11118561/

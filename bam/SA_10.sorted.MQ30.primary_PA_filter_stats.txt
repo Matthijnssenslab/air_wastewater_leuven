@@ -1,0 +1,70 @@
+================================================================================
+PA SEGMENT H3N2 CONTAMINATION FILTERING REPORT
+================================================================================
+
+Date: Tue Dec 30 14:14:56 CET 2025
+
+INPUT FILE
+----------
+Original BAM: SA_10.sorted.MQ30.primary.bam
+Total reads in BAM:  1549782
+PA segment reads:   303718
+PA segment accession: NC_026437.1
+
+FILTERING STRATEGY
+------------------
+Segment: PA only (Reference: NC_026437.1, 2151 bp)
+
+For each PA read:
+  1. Align to H1N1 PA reference → get MAPQ (H1N1_PA)
+  2. Align to H3N2 PA reference → get MAPQ (H3N2_PA)
+  3. Remove if: H3N2_PA MAPQ >= H1N1_PA MAPQ
+
+Logic: Remove reads that map equally or better to H3N2 PA, indicating contamination
+
+OUTPUT RESULTS
+--------------
+Filtered BAM file: SA_10.sorted.MQ30.primary_PA_clean.bam
+Filtered BAM index: SA_10.sorted.MQ30.primary_PA_clean.bam.bai
+
+PA Segment Statistics:
+  - PA reads kept: 242686
+  - PA reads removed:    61032
+  - PA removal percentage: 20.09%
+  
+Total BAM reads after filtering:  1429302
+
+REFERENCE GENOMES
+-----------------
+H1N1 PA: H1N1pdm09_A_California_07_2009/PA.fasta
+H3N2 PA: H3N2_A_Perth_16_2009/PA.fasta
+
+TECHNICAL DETAILS
+-----------------
+- Alignment tool: BWA (Burrows-Wheeler Aligner)
+- Version: 0.7.19
+- Threads used: 4
+- MAPQ (Mapping Quality): Phred-scaled probability of alignment error
+  * MAPQ 0 = unmapped or ambiguous
+  * MAPQ 60 = high confidence
+
+INTERPRETATION
+---------------
+The    61032 PA reads removed (20.09% of PA reads) showed better alignment
+to H3N2 PA segment than to H1N1 PA segment, indicating they are likely from
+H3N2 contamination and should be excluded from H1N1 analysis.
+
+All non-PA reads are retained in the filtered BAM file.
+PA reads with H1N1 PA MAPQ >= H3N2 PA MAPQ are retained as true H1N1 reads.
+
+USAGE
+-----
+Use the filtered BAM file (SA_10.sorted.MQ30.primary_PA_clean.bam) for downstream analyses:
+  - Variant calling (only for PA segment)
+  - Consensus sequence generation
+  - Coverage analysis
+  - SNV detection
+
+The original BAM file (SA_10.sorted.MQ30.primary.bam) is preserved for reference.
+
+================================================================================

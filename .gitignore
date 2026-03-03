@@ -1,0 +1,27 @@
+# Large Data Files (Simulated Ignored)
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.bed
+
+# System Files
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+
+# Ignore everything in resistance_analysis by default...
+resistance_analysis/*
+# ...but allow small result files needed for plots
+!resistance_analysis/*.csv
+!resistance_analysis/*.json
+!resistance_analysis/*.txt
+!resistance_analysis/*.fasta
+!resistance_analysis/*.fai
+
+# Also allow depth TSV in bam folder (if it exists)
+!bam/*.tsv
+
+
+

@@ -1,0 +1,32 @@
+{
+  "samples": [
+    {
+      "name": "H1N1 (SA_10)",
+      "virus_type": "A(H1N1)pdm09",
+      "bam": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/temp_data/SA_10.trimmed.bam",
+      "consensus": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/temp_data/SA_10.consensus_from_bam.fasta",
+      "segments": {
+        "HA": {
+          "gene": "HA",
+          "ref_gb": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/references/H1N1pdm09_A_California_07_2009/segment_4_NC_026433.gb",
+          "cons_acc": "NC_026433.1"
+        },
+        "NA": {
+          "gene": "NA",
+          "ref_gb": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/references/H1N1pdm09_A_California_07_2009/segment_6_NC_026434.gb",
+          "cons_acc": "NC_026434.1"
+        },
+        "M2": {
+          "gene": "M2",
+          "ref_gb": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/references/H1N1pdm09_A_California_07_2009/segment_7_NC_026431.gb",
+          "cons_acc": "NC_026431.1"
+        },
+        "PA": {
+          "gene": "PA",
+          "ref_gb": "/Users/mustafakaratas/Library/CloudStorage/OneDrive-KULeuven/BE/github/air_wastewater/upload_to_github/references/H1N1pdm09_A_California_07_2009/segment_3_NC_026437.gb",
+          "cons_acc": "NC_026437.1"
+        }
+      }
+    }
+  ]
+}

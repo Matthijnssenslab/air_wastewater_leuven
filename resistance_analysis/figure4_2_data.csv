@@ -1,0 +1,1849 @@
+sample,virus,gene,aa_pos,ref_aa,cons_aa,depth,status,is_resistance,res_mut_found
+H1N1 (SA_10),A(H1N1)pdm09,HA,1,M,M,4087.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,2,K,K,4097.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,3,A,A,4099.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,4,I,I,6837.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,5,L,L,8207.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,6,V,V,8210.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,7,V,V,8210.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,8,L,M,8211.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,9,L,L,8211.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,10,Y,Y,8217.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,11,T,T,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,12,F,F,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,13,A,T,8222.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,14,T,T,8223.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,15,A,A,8224.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,16,N,N,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,17,A,A,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,18,D,D,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,19,T,T,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,20,L,L,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,21,C,C,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,22,I,I,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,23,G,G,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,24,Y,Y,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,25,H,H,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,26,A,A,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,27,N,N,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,28,N,N,8225.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,29,S,S,8224.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,30,T,T,8224.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,31,D,D,8224.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,32,T,T,8222.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,33,V,V,8221.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,34,D,D,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,35,T,T,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,36,V,L,8221.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,37,L,L,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,38,E,E,8220.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,39,K,K,8221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,40,N,N,8220.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,41,V,V,8220.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,42,T,T,8219.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,43,V,V,5495.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,44,T,T,4143.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,45,H,H,4143.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,46,S,S,4143.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,47,V,V,6328.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,48,N,N,6328.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,49,L,L,6350.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,50,L,L,6356.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,51,E,E,6357.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,52,D,D,6357.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,53,K,K,6357.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,54,H,H,3609.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,55,N,N,2236.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,56,G,G,2235.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,57,K,K,2236.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,58,L,L,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,59,C,C,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,60,K,K,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,61,L,L,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,62,R,R,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,63,G,G,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,64,V,V,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,65,A,A,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,66,P,P,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,67,L,L,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,68,H,H,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,69,L,L,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,70,G,G,2235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,71,K,Q,2234.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,72,C,C,2227.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,73,N,N,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,74,I,I,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,75,A,A,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,76,G,G,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,77,W,W,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,78,I,I,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,79,L,L,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,80,G,G,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,81,N,N,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,82,P,P,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,83,E,E,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,84,C,C,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,85,E,E,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,86,S,S,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,87,L,L,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,88,S,S,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,89,T,T,2215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,90,A,A,2213.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,91,S,R,2210.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,92,S,S,2210.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,93,W,W,2210.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,94,S,S,2210.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,95,Y,Y,2208.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,96,I,I,2208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,97,V,X,0.3333333333333333,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,98,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,99,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,100,P,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,101,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,102,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,103,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,104,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,105,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,106,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,107,C,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,108,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,109,P,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,110,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,111,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,112,F,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,113,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,114,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,115,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,116,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,117,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,118,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,119,R,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,120,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,121,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,122,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,123,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,124,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,125,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,126,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,127,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,128,F,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,129,E,X,1440.3333333333333,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,130,R,R,2158.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,131,F,F,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,132,E,E,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,133,I,I,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,134,F,F,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,135,P,P,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,136,K,K,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,137,T,T,2158.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,138,S,S,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,139,S,S,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,140,W,W,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,141,P,P,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,142,N,N,2158.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,143,H,H,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,144,D,D,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,145,S,S,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,146,N,N,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,147,K,K,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,148,G,G,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,149,V,V,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,150,T,T,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,151,A,A,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,152,A,A,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,153,C,C,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,154,P,P,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,155,H,H,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,156,A,A,2158.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,157,G,G,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,158,A,A,2157.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,159,K,K,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,160,S,S,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,161,F,F,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,162,Y,Y,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,163,K,K,2157.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,164,N,N,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,165,L,L,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,166,I,I,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,167,W,W,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,168,L,L,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,169,V,V,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,170,K,K,2157.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,171,K,K,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,172,G,G,2158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,173,N,N,2157.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,174,S,S,2156.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,175,Y,Y,2156.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,176,P,P,2156.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,177,K,K,2147.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,178,L,L,2125.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,179,S,X,708.3333333333334,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,180,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,181,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,182,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,183,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,184,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,185,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,186,K,X,0.0,Low Coverage,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,187,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,188,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,189,E,X,0.0,Low Coverage,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,190,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,191,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,192,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,193,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,194,W,X,4171.333333333333,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,195,G,G,6268.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,196,I,I,6298.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,197,H,H,6299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,198,H,H,6299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,199,P,P,6299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,200,S,S,6299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,201,T,T,6299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,202,S,S,6298.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,203,A,A,6303.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,204,D,D,6308.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,205,Q,Q,6309.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,206,Q,Q,6312.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,207,S,S,6315.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,208,L,L,6316.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,209,Y,Y,6319.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,210,Q,Q,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,211,N,N,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,212,A,A,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,213,D,D,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,214,A,A,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,215,Y,Y,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,216,V,V,6319.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,217,F,F,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,218,V,V,6318.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,219,G,G,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,220,S,T,6320.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,221,S,S,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,222,R,R,6320.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,223,Y,Y,10541.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,224,S,S,12652.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,225,K,K,12653.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,226,K,K,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,227,F,F,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,228,K,K,13202.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,229,P,P,14300.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,230,E,E,14300.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,231,I,I,14300.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,232,A,A,14299.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,233,I,T,14299.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,234,R,R,14299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,235,P,P,14299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,236,K,K,14298.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,237,V,V,14297.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,238,R,R,14296.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,239,X,X,14294.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,240,X,X,14291.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,241,E,A,14285.333333333334,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,242,G,G,14498.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,243,R,R,14927.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,244,M,M,10730.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,245,N,N,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,246,Y,Y,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,247,Y,Y,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,248,W,W,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,249,T,T,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,250,L,L,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,251,V,V,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,252,E,E,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,253,P,P,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,254,G,G,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,255,D,D,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,256,K,K,8627.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,257,I,I,8628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,258,T,T,8647.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,259,F,F,8685.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,260,E,E,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,261,A,A,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,262,T,T,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,263,G,G,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,264,N,N,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,265,L,L,8683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,266,V,V,8681.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,267,V,A,8675.333333333334,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,268,P,P,8674.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,269,R,R,8674.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,270,Y,Y,8673.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,271,A,A,8677.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,272,F,F,8668.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,273,A,T,4452.666666666667,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,274,M,M,2348.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,275,E,E,2345.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,276,R,K,2260.6666666666665,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,277,N,D,1579.3333333333333,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,278,A,A,1078.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,279,G,X,70.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,280,S,X,70.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,281,G,X,70.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,282,I,X,70.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,283,I,X,70.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,284,I,X,1163.3333333333333,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,285,S,S,1710.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,286,D,D,1710.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,287,T,T,1711.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,288,P,P,1711.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,289,V,V,1704.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,290,H,H,1701.3333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,291,D,D,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,292,C,C,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,293,N,N,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,294,T,T,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,295,T,T,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,296,C,C,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,297,Q,Q,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,298,T,T,1703.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,299,P,P,1703.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,300,K,E,1703.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,301,G,G,1702.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,302,A,A,1702.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,303,I,I,1703.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,304,N,N,1703.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,305,T,T,1703.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,306,S,S,1702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,307,L,L,1757.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,308,P,P,1850.3333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,309,F,F,1813.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,310,Q,Q,1813.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,311,N,N,1811.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,312,I,V,1809.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,313,H,H,1808.3333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,314,P,P,1809.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,315,I,I,1809.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,316,T,T,1809.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,317,I,I,1809.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,318,G,G,1809.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,319,K,K,2292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,320,C,C,2533.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,321,P,P,2533.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,322,K,K,2532.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,323,Y,Y,2531.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,324,V,V,2535.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,325,K,R,3218.3333333333335,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,326,S,S,4614.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,327,T,T,4738.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,328,K,K,4816.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,329,L,L,4821.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,330,R,R,9953.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,331,L,L,9954.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,332,A,A,11757.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,333,T,T,15339.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,334,G,G,14248.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,335,L,L,13741.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,336,R,R,13776.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,337,N,N,13779.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,338,I,V,13802.333333333334,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,339,P,P,13828.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,340,S,S,13833.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,341,I,I,13841.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,342,Q,Q,13845.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,343,S,S,13846.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,344,R,R,13845.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,345,G,G,13844.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,346,L,L,13840.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,347,F,F,13837.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,348,G,G,14533.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,349,A,A,15914.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,350,I,I,15915.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,351,A,A,15914.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,352,G,G,15912.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,353,F,F,15996.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,354,I,I,15996.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,355,E,E,16038.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,356,G,G,16038.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,357,G,G,15897.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,358,W,W,15898.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,359,T,T,15900.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,360,G,G,15901.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,361,M,M,15900.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,362,V,V,15900.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,363,D,D,15900.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,364,G,G,15900.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,365,W,W,15898.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,366,Y,Y,15898.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,367,G,G,15897.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,368,Y,Y,15894.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,369,H,H,15388.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,370,H,H,15136.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,371,Q,Q,15132.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,372,N,N,15128.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,373,E,E,15115.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,374,Q,Q,12841.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,375,G,G,12835.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,376,S,S,12834.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,377,G,G,12831.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,378,Y,Y,12827.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,379,A,A,10652.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,380,A,A,5572.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,381,D,D,5546.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,382,L,L,3694.3333333333335,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,383,K,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,384,S,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,385,T,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,386,Q,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,387,N,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,388,A,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,389,I,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,390,D,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,391,E,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,392,I,X,1539.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,393,T,T,2304.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,394,N,N,2311.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,395,K,K,2987.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,396,V,V,3324.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,397,N,N,4100.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,398,S,S,5649.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,399,V,V,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,400,I,I,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,401,E,E,5659.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,402,K,K,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,403,M,M,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,404,N,N,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,405,T,T,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,406,Q,Q,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,407,F,F,5660.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,408,T,T,5669.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,409,A,A,6357.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,410,V,V,6692.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,411,G,G,6706.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,412,K,K,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,413,E,E,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,414,F,F,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,415,N,N,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,416,H,H,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,417,L,L,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,418,E,E,6701.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,419,K,K,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,420,R,R,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,421,I,I,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,422,E,E,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,423,N,N,6706.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,424,L,L,6706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,425,N,N,6706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,426,K,K,6704.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,427,K,K,6706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,428,V,V,6706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,429,D,D,6706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,430,D,D,6706.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,431,G,G,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,432,F,F,6707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,433,L,L,6742.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,434,D,D,6762.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,435,I,I,6762.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,436,W,W,6763.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,437,T,T,6764.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,438,Y,Y,6764.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,439,N,N,6764.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,440,A,A,6764.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,441,E,E,6764.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,442,L,L,5222.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,443,L,L,4446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,444,V,V,4446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,445,L,L,3771.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,446,L,L,3420.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,447,E,E,2627.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,448,N,N,1077.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,449,E,E,1077.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,450,R,R,1077.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,451,T,T,1077.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,452,L,L,1077.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,453,D,D,1078.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,454,Y,Y,1078.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,455,H,H,3492.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,456,D,D,3500.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,457,S,S,3502.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,458,N,N,3502.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,459,V,V,2822.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,460,K,K,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,461,N,N,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,462,L,L,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,463,Y,Y,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,464,E,E,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,465,K,K,2481.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,466,V,V,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,467,R,R,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,468,S,S,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,469,Q,Q,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,470,L,L,2481.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,471,K,K,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,472,N,N,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,473,N,N,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,474,A,A,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,475,K,K,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,476,E,E,2482.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,477,I,I,8189.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,478,G,G,8188.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,479,N,N,8189.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,480,G,G,8189.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,481,C,C,9880.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,482,F,F,13266.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,483,E,E,13234.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,484,F,F,13215.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,485,Y,Y,14022.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,486,H,H,15634.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,487,K,K,15634.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,488,C,C,15634.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,489,D,D,15634.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,490,N,N,15635.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,491,T,T,15635.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,492,C,C,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,493,M,M,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,494,E,E,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,495,S,S,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,496,V,V,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,497,K,K,15636.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,498,N,N,15637.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,499,G,G,15637.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,500,T,T,15638.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,501,Y,Y,15638.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,502,D,D,15639.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,503,Y,Y,15639.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,504,P,P,15639.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,505,K,K,13215.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,506,Y,Y,13215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,507,S,S,13215.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,508,E,E,13214.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,509,E,E,13214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,510,A,A,13214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,511,K,K,13214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,512,L,L,13214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,513,N,N,13214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,514,R,R,13213.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,515,E,E,13213.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,516,E,K,13211.333333333334,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,517,I,I,13212.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,518,D,D,13212.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,519,G,G,13210.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,520,V,V,13209.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,521,K,K,13209.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,522,L,L,13202.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,523,E,D,13194.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,524,S,S,13190.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,525,T,T,18429.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,526,R,R,21049.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,527,I,T,20556.333333333332,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,528,Y,Y,33050.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,529,Q,Q,33046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,530,I,I,31368.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,531,L,L,28020.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,532,A,A,27982.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,533,I,I,28574.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,534,Y,Y,28680.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,535,S,S,27935.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,536,T,T,26344.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,537,V,V,26344.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,538,A,A,26364.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,539,S,S,26372.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,540,S,S,26377.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,541,L,L,26379.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,542,V,V,26379.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,543,L,L,26395.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,544,V,V,26415.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,545,V,V,26418.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,546,S,S,26422.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,547,L,L,26421.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,548,G,G,26424.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,549,A,A,26424.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,550,I,I,26424.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,551,S,S,26424.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,552,F,F,26425.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,553,W,W,26425.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,554,M,M,26424.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,555,C,C,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,556,S,S,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,557,N,N,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,558,G,G,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,559,S,S,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,560,L,L,26423.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,561,Q,Q,26422.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,562,C,C,26421.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,563,R,R,26409.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,564,I,I,26333.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,565,C,C,25818.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,HA,566,I,X,1.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,1,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,2,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,3,P,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,4,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,5,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,6,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,7,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,8,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,9,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,10,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,11,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,12,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,13,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,14,C,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,15,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,16,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,17,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,18,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,19,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,20,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,21,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,22,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,23,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,24,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,25,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,26,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,27,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,28,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,29,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,30,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,31,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,32,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,33,W,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,34,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,35,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,36,H,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,37,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,38,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,39,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,40,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,41,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,42,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,43,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,44,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,45,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,46,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,47,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,48,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,49,C,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,50,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,51,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,52,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,53,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,54,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,55,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,56,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,57,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,58,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,59,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,60,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,61,W,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,62,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,63,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,64,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,65,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,66,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,67,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,68,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,69,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,70,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,71,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,72,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,73,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,74,F,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,75,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,76,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,77,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,78,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,79,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,80,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,81,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,82,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,83,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,84,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,85,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,86,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,87,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,88,N,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,89,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,90,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,91,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,92,C,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,93,P,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,94,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,95,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,96,G,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,97,W,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,98,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,99,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,100,Y,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,101,S,S,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,102,K,K,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,103,D,D,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,104,N,N,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,105,S,S,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,106,V,V,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,107,R,R,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,108,I,I,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,109,G,G,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,110,S,S,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,111,K,K,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,112,G,G,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,113,D,D,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,114,V,V,1680.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,115,F,F,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,116,V,V,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,117,I,I,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,118,R,R,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,119,E,E,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,120,P,P,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,121,F,F,1680.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,122,I,I,1679.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,123,S,S,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,124,C,C,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,125,S,S,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,126,P,P,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,127,L,L,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,128,E,E,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,129,C,C,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,130,R,R,1679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,131,T,T,1678.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,132,F,F,1678.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,133,F,F,1677.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,134,L,L,1676.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,135,T,T,1676.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,136,Q,Q,1675.3333333333333,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,137,G,X,558.3333333333334,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,138,A,A,6389.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,139,L,L,6430.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,140,L,L,6435.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,141,N,N,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,142,D,D,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,143,K,K,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,144,H,H,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,145,S,S,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,146,N,N,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,147,G,G,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,148,T,T,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,149,I,I,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,150,K,K,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,151,D,D,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,152,R,R,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,153,S,S,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,154,P,P,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,155,Y,Y,6437.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,156,R,R,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,157,T,T,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,158,L,L,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,159,M,M,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,160,S,S,6437.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,161,C,C,6437.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,162,P,P,12851.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,163,I,I,12851.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,164,G,G,12851.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,165,E,E,12851.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,166,V,V,12851.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,167,P,P,12852.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,168,S,S,12852.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,169,P,P,12852.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,170,Y,Y,12853.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,171,N,N,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,172,S,S,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,173,R,R,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,174,F,F,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,175,E,E,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,176,S,S,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,177,V,V,12854.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,178,A,A,12852.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,179,W,W,12852.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,180,S,S,12851.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,181,A,A,12850.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,182,S,S,12850.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,183,A,A,12850.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,184,C,C,12850.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,185,H,H,17348.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,186,D,D,17347.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,187,G,G,17346.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,188,I,T,10916.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,189,N,N,10918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,190,W,W,10920.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,191,L,L,10920.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,192,T,T,10920.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,193,I,I,10920.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,194,G,G,10919.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,195,I,I,10919.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,196,S,S,10918.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,197,G,G,10918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,198,P,P,10918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,199,D,D,10918.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,200,N,N,10918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,201,G,G,10917.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,202,A,A,10917.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,203,V,V,10917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,204,A,A,13858.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,205,V,V,15329.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,206,L,L,15329.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,207,K,K,15326.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,208,Y,Y,15325.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,209,N,N,15324.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,210,G,G,15324.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,211,I,I,15324.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,212,I,I,8918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,213,T,T,8918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,214,D,D,8918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,215,T,T,8918.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,216,I,I,8917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,217,K,K,8917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,218,S,S,8915.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,219,W,W,8914.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,220,R,R,8913.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,221,N,N,8912.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,222,N,K,8912.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,223,I,I,8912.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,224,L,L,8912.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,225,R,R,8912.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,226,T,T,8912.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,227,Q,Q,8912.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,228,E,E,8910.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,229,S,S,8909.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,230,E,E,8909.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,231,C,C,8907.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,232,A,A,8905.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,233,C,C,8900.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,234,V,V,8888.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,235,N,N,4415.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,236,G,G,8701.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,237,S,S,8700.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,238,C,C,9001.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,239,F,F,9607.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,240,T,T,9606.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,241,V,I,9610.666666666666,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,242,M,M,9615.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,243,T,T,9617.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,244,D,D,9617.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,245,G,G,9616.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,246,P,P,9613.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,247,S,S,12515.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,248,N,D,13999.666666666666,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,249,G,G,14020.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,250,Q,Q,14024.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,251,A,A,14027.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,252,S,S,14027.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,253,Y,Y,14026.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,254,K,K,11089.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,255,I,I,9625.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,256,F,F,9624.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,257,R,R,9626.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,258,I,I,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,259,E,E,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,260,K,K,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,261,G,G,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,262,K,K,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,263,I,I,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,264,V,A,9627.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,265,K,K,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,266,S,S,9627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,267,V,V,10293.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,268,E,E,11626.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,269,M,M,11625.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,270,N,N,11623.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,271,A,A,11628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,272,P,P,11631.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,273,N,N,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,274,Y,Y,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,275,H,H,12653.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,276,Y,Y,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,277,E,E,12652.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,278,E,E,12651.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,279,C,C,12652.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,280,S,S,12653.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,281,C,C,12653.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,282,Y,Y,12652.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,283,P,P,12652.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,284,D,D,12652.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,285,S,S,12652.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,286,S,S,8368.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,287,E,E,8367.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,288,I,I,8061.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,289,T,T,7451.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,290,C,C,7451.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,291,V,V,7451.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,292,C,C,7451.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,293,R,R,7450.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,294,D,D,9988.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,295,N,N,9973.666666666666,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,296,W,W,9947.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,297,H,H,7026.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,298,G,G,5566.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,299,S,S,5566.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,300,N,N,6391.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,301,R,R,8041.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,302,P,P,8041.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,303,W,W,8044.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,304,V,V,8045.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,305,S,S,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,306,F,F,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,307,N,N,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,308,Q,Q,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,309,N,N,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,310,L,L,8046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,311,E,E,12388.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,312,Y,Y,12388.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,313,Q,Q,12389.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,314,I,M,12387.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,315,G,G,12385.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,316,Y,Y,12388.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,317,I,I,11718.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,318,C,C,10382.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,319,S,S,10382.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,320,G,G,10381.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,321,I,V,10381.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,322,F,F,10381.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,323,G,G,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,324,D,D,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,325,N,N,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,326,P,P,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,327,R,R,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,328,P,P,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,329,N,N,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,330,D,D,9363.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,331,K,K,9362.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,332,T,T,9362.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,333,G,G,9361.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,334,S,S,9359.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,335,C,C,9919.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,336,G,G,10933.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,337,P,P,10757.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,338,V,V,9206.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,339,S,S,6098.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,340,S,S,6100.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,341,N,N,6102.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,342,G,G,6103.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,343,A,A,6101.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,344,N,N,7493.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,345,G,G,7489.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,346,V,V,7484.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,347,K,K,7476.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,348,G,G,7460.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,349,F,F,7508.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,350,S,S,7509.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,351,F,F,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,352,K,K,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,353,Y,Y,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,354,G,G,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,355,N,N,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,356,G,G,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,357,V,V,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,358,W,W,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,359,I,I,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,360,G,G,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,361,R,R,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,362,T,T,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,363,K,K,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,364,S,S,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,365,I,I,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,366,S,S,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,367,S,S,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,368,R,R,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,369,N,K,3208.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,370,G,G,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,371,F,F,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,372,E,E,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,373,M,M,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,374,I,I,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,375,W,W,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,376,D,D,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,377,P,P,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,378,N,N,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,379,G,G,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,380,W,W,3208.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,381,T,T,3205.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,382,G,G,3201.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,383,T,T,3058.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,384,D,D,1441.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,385,N,N,1441.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,386,N,K,1439.3333333333333,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,387,F,F,2393.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,388,S,S,4303.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,389,I,K,4298.666666666667,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,390,K,K,4302.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,391,Q,Q,4299.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,392,D,D,4228.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,393,I,I,4112.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,394,V,V,2877.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,395,G,G,2877.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,396,I,I,2879.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,397,N,N,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,398,E,E,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,399,W,W,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,400,S,S,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,401,G,G,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,402,Y,Y,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,403,S,S,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,404,G,G,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,405,S,S,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,406,F,F,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,407,V,V,2885.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,408,Q,Q,4864.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,409,H,H,5851.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,410,P,P,5855.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,411,E,E,5855.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,412,L,L,5855.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,413,T,T,5855.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,414,G,G,5856.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,415,L,L,7272.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,416,D,N,7281.666666666667,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,417,C,C,7288.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,418,I,I,7289.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,419,R,R,7289.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,420,P,P,7289.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,421,C,C,7291.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,422,F,F,7292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,423,W,W,7293.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,424,V,V,7294.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,425,E,E,7294.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,426,L,L,7294.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,427,I,I,7293.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,428,R,R,7292.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,429,G,G,7291.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,430,R,R,7291.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,431,P,P,7291.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,432,K,E,7291.666666666667,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,433,E,E,7292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,434,N,N,7292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,435,T,T,7292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,436,I,I,7292.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,437,W,W,6332.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,438,T,T,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,439,S,S,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,440,G,G,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,441,S,S,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,442,S,S,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,443,I,I,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,444,S,S,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,445,F,F,4407.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,446,C,C,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,447,G,G,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,448,V,V,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,449,N,D,4410.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,450,S,S,4410.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,451,D,D,4409.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,452,T,I,4406.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,453,V,M,4405.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,454,G,G,4405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,455,W,W,4405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,456,S,S,4405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,457,W,W,4405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,458,P,P,2427.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,459,D,D,1439.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,460,G,G,1439.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,461,A,A,1439.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,462,E,E,1439.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,463,L,L,1438.3333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,464,P,P,1438.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,465,F,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,466,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,467,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,468,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,NA,469,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,1,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,2,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,3,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,4,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,5,T,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,6,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,7,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,8,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,9,T,X,13214.333333333334,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,10,P,P,41681.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,11,T,T,41221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,12,R,R,40294.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,13,S,S,38452.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,14,E,E,34763.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,15,W,W,34765.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,16,E,E,34764.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,17,C,C,37968.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,18,R,R,42684.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,19,C,C,44234.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,20,S,S,44181.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,21,D,G,43910.666666666664,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,22,S,S,46917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,23,S,N,53036.666666666664,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,24,D,D,44776.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,25,P,P,44788.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,26,L,L,44793.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,27,V,V,44796.333333333336,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,28,I,I,48428.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,29,A,X,55679.0,Stop/Ambig,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,30,A,A,49367.666666666664,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,31,N,N,49365.0,Ref,True,True
+H1N1 (SA_10),A(H1N1)pdm09,M2,32,I,I,49569.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,33,I,I,49595.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,34,G,G,55314.666666666664,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,35,I,I,58176.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,36,L,L,58198.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,37,H,H,58213.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,38,L,L,58222.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,39,I,I,58227.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,40,L,L,58230.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,41,W,W,61963.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,42,I,I,69386.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,43,T,T,69461.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,44,D,D,76689.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,45,R,R,76693.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,46,L,L,76431.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,47,F,F,76695.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,48,F,F,76694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,49,K,K,82795.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,50,C,C,85832.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,51,I,I,85912.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,52,Y,Y,85919.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,53,R,R,85359.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,54,R,R,84235.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,55,F,F,84237.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,56,K,K,84236.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,57,Y,Y,84237.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,58,G,G,84234.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,59,L,L,79001.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,60,K,K,82941.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,61,R,R,82954.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,62,G,G,82956.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,63,P,P,82973.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,64,S,S,82976.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,65,T,T,82977.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,66,E,E,82976.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,67,G,G,79769.33333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,68,V,V,75000.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,69,P,P,73421.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,70,E,E,73420.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,71,S,S,73416.66666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,72,M,M,70360.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,73,R,R,64172.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,74,E,E,64171.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,75,E,E,64169.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,76,Y,Y,64167.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,77,Q,Q,64157.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,78,Q,Q,60442.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,79,E,E,52979.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,80,Q,Q,52976.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,81,Q,Q,52979.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,82,S,S,52977.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,83,A,A,52972.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,84,V,V,47238.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,85,D,D,44367.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,86,V,V,44306.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,87,D,D,44199.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,88,D,D,37245.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,89,G,G,37242.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,90,H,H,37237.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,91,F,F,30362.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,92,V,V,16863.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,93,N,N,16863.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,94,I,I,16857.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,95,E,E,16848.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,96,L,L,16819.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,M2,97,E,E,16787.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,1,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,2,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,3,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,4,F,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,5,V,L,1685.6666666666667,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,6,R,R,1691.3333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,7,Q,Q,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,8,C,C,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,9,F,F,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,10,N,N,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,11,P,P,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,12,M,M,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,13,I,I,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,14,V,V,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,15,E,E,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,16,L,L,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,17,A,A,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,18,X,X,1692.6666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,19,K,K,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,20,A,A,1694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,21,M,M,2843.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,22,K,K,5143.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,23,E,E,5143.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,24,Y,Y,5143.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,25,G,G,5142.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,26,E,E,5142.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,27,D,D,5140.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,28,P,P,5140.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,29,K,K,5141.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,30,I,I,5140.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,31,E,E,5142.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,32,T,T,5142.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,33,N,N,5142.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,34,K,K,5847.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,35,F,F,7255.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,36,A,A,7255.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,37,A,A,7255.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,38,I,I,7255.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,39,C,C,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,40,T,T,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,41,H,H,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,42,L,L,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,43,E,E,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,44,V,V,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,45,C,C,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,46,F,F,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,47,M,M,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,48,Y,Y,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,49,S,S,7256.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,50,D,D,7249.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,51,F,F,7221.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,52,H,H,7195.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,53,F,F,7195.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,54,I,I,7173.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,55,D,D,5566.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,56,E,E,5565.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,57,R,R,5564.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,58,G,G,8827.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,59,E,E,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,60,S,S,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,61,I,I,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,62,I,I,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,63,V,I,10458.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,64,E,E,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,65,S,S,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,66,G,G,10458.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,67,D,D,12782.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,68,P,P,13944.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,69,N,N,13955.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,70,A,A,13957.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,71,L,L,12811.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,72,L,L,10511.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,73,K,K,11216.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,74,H,H,12627.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,75,R,R,13770.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,76,F,F,16056.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,77,E,E,16058.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,78,I,I,16158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,79,I,I,16158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,80,E,E,16158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,81,G,G,16157.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,82,R,R,16156.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,83,D,D,16154.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,84,R,R,19250.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,85,I,I,19744.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,86,M,M,19745.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,87,A,A,19746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,88,W,W,19746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,89,T,T,19746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,90,V,V,19746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,91,V,V,19749.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,92,N,N,19749.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,93,S,X,19746.0,Stop/Ambig,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,94,I,I,19738.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,95,C,C,19731.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,96,N,N,18569.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,97,T,T,16244.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,98,T,T,16244.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,99,G,G,16243.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,100,V,I,19496.333333333332,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,101,E,E,21124.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,102,K,K,21126.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,103,P,P,24559.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,104,K,K,24557.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,105,F,F,24558.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,106,L,L,23145.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,107,P,P,22438.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,108,D,D,19188.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,109,L,L,17464.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,110,Y,Y,17464.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,111,D,D,17480.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,112,Y,Y,17489.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,113,K,K,17489.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,114,E,E,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,115,N,N,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,116,R,R,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,117,F,F,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,118,I,I,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,119,E,E,17485.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,120,I,I,17484.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,121,G,G,17484.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,122,V,V,17481.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,123,T,T,17478.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,124,R,R,17475.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,125,R,R,16334.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,126,E,E,14053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,127,V,V,14053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,128,H,H,14053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,129,I,I,14053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,130,Y,Y,14053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,131,Y,Y,17854.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,132,L,L,19750.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,133,E,E,21439.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,134,K,K,17642.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,135,A,A,15746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,136,N,N,15746.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,137,K,K,15744.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,138,I,I,15745.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,139,K,K,15745.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,140,S,S,13455.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,141,E,X,12312.0,Stop/Ambig,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,142,K,K,12313.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,143,T,T,12312.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,144,H,H,12312.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,145,I,I,12312.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,146,H,H,12312.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,147,I,I,12312.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,148,F,F,12308.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,149,S,S,12311.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,150,F,F,9051.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,151,T,T,7421.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,152,G,G,19897.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,153,E,E,26135.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,154,E,E,26137.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,155,M,M,26138.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,156,A,A,26546.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,157,T,T,27352.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,158,K,K,27335.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,159,A,A,27335.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,160,D,D,28878.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,161,Y,Y,28912.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,162,T,T,28917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,163,L,L,28917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,164,D,D,28917.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,165,E,E,28916.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,166,E,E,28954.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,167,S,S,28956.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,168,R,R,28956.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,169,A,A,28956.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,170,R,R,28956.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,171,I,I,28963.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,172,K,K,28962.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,173,T,T,28962.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,174,R,R,28961.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,175,L,L,28962.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,176,F,F,28962.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,177,T,T,28962.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,178,I,I,31744.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,179,R,R,37305.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,180,Q,Q,37310.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,181,E,E,33514.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,182,M,M,31617.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,183,A,A,29925.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,184,S,S,29924.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,185,R,R,29913.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,186,S,S,29949.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,187,L,L,29963.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,188,W,W,29973.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,189,D,D,40022.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,190,S,S,39512.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,191,F,F,39730.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,192,R,R,39833.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,193,Q,Q,39835.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,194,S,S,39835.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,195,E,E,39833.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,196,R,R,39831.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,197,G,G,39824.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,198,E,E,39819.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,199,E,E,39801.0,Ref,True,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,200,T,T,39792.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,201,I,I,39792.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,202,E,E,27341.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,203,E,E,21109.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,204,K,K,21104.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,205,F,F,21105.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,206,E,E,20661.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,207,I,I,19857.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,208,T,T,19820.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,209,G,G,19820.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,210,T,T,19925.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,211,M,M,19925.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,212,R,R,19929.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,213,K,K,28327.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,214,L,L,28325.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,215,A,A,28326.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,216,D,D,30843.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,217,Q,Q,35877.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,218,S,S,35875.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,219,L,L,35847.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,220,P,P,35828.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,221,P,P,38628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,222,N,N,38625.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,223,F,F,38618.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,224,P,S,38586.333333333336,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,225,S,C,41389.666666666664,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,226,L,L,41430.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,227,E,E,42666.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,228,N,N,39914.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,229,F,F,34406.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,230,R,R,34413.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,231,A,A,34416.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,232,Y,Y,34420.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,233,V,V,34430.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,234,D,D,41825.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,235,G,G,41826.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,236,F,F,41825.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,237,E,E,41825.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,238,P,P,30389.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,239,N,N,30388.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,240,G,G,30389.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,241,C,C,30389.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,242,I,I,30389.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,243,E,E,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,244,G,G,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,245,K,K,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,246,L,L,30389.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,247,S,S,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,248,Q,Q,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,249,M,M,30390.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,250,S,S,30375.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,251,K,K,30389.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,252,E,E,30388.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,253,V,V,30386.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,254,N,N,30383.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,255,A,A,30383.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,256,K,K,30380.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,257,I,I,30383.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,258,E,E,30381.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,259,P,P,30380.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,260,F,F,30273.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,261,L,L,30645.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,262,R,K,31372.666666666668,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,263,T,T,23346.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,264,T,T,23410.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,265,P,P,23446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,266,R,R,20925.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,267,P,P,15858.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,268,L,L,9052.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,269,R,R,9045.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,270,L,L,9028.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,271,P,P,9026.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,272,D,D,9025.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,273,G,G,9025.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,274,P,P,9026.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,275,L,L,9027.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,276,C,C,9027.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,277,H,H,9024.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,278,Q,Q,9024.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,279,R,R,9024.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,280,S,S,9023.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,281,K,K,9023.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,282,F,F,9023.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,283,L,L,9023.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,284,L,L,1628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,285,M,M,1628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,286,D,D,1628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,287,A,A,1628.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,288,L,L,3644.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,289,K,K,3645.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,290,L,L,3646.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,291,S,S,3646.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,292,I,I,6425.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,293,E,E,6426.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,294,D,D,6426.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,295,P,P,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,296,S,S,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,297,H,H,6427.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,298,E,E,6426.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,299,G,G,6428.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,300,E,E,6426.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,301,G,G,6425.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,302,I,I,6426.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,303,P,P,6426.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,304,L,L,6426.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,305,Y,Y,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,306,D,D,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,307,A,A,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,308,I,I,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,309,K,K,6427.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,310,C,C,6426.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,311,M,M,5883.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,312,K,K,4800.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,313,T,T,4800.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,314,F,F,4801.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,315,F,F,4801.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,316,G,G,4801.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,317,W,W,4799.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,318,K,K,4798.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,319,E,E,4798.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,320,P,P,4796.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,321,N,K,4794.333333333333,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,322,I,I,4793.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,323,V,V,4793.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,324,K,K,4791.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,325,P,P,4789.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,326,H,H,4785.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,327,E,E,4785.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,328,K,K,4782.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,329,G,G,4780.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,330,I,V,4769.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,331,N,N,4769.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,332,P,P,4768.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,333,N,N,4762.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,334,Y,Y,4747.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,335,L,F,4663.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,336,M,M,4659.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,337,A,T,4622.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,338,W,W,2771.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,339,K,K,2766.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,340,Q,Q,2761.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,341,V,V,2761.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,342,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,343,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,344,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,345,L,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,346,Q,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,347,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,348,I,I,2116.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,349,E,E,2151.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,350,N,N,10990.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,351,E,E,11001.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,352,E,E,11046.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,353,K,K,11049.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,354,I,I,11267.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,355,P,P,11276.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,356,R,R,11285.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,357,T,T,11286.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,358,K,K,11287.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,359,N,N,11287.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,360,M,M,11287.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,361,K,K,11286.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,362,R,K,11286.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,363,T,T,11280.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,364,S,S,11291.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,365,Q,Q,11293.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,366,L,L,11293.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,367,K,K,11293.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,368,W,W,11293.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,369,A,A,11324.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,370,L,L,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,371,G,G,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,372,E,E,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,373,N,N,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,374,M,M,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,375,A,A,11387.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,376,P,P,19572.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,377,E,E,19652.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,378,K,K,19679.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,379,V,V,19677.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,380,D,D,19679.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,381,F,F,19684.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,382,D,D,19688.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,383,D,D,19687.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,384,C,C,19685.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,385,K,K,19684.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,386,D,D,19685.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,387,V,V,19680.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,388,G,G,19678.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,389,D,D,19625.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,390,L,L,19461.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,391,K,K,17215.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,392,Q,Q,11389.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,393,Y,Y,8405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,394,D,D,8405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,395,S,S,8405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,396,D,D,8405.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,397,E,E,9765.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,398,P,P,10445.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,399,E,E,10446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,400,P,P,10446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,401,R,R,10446.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,402,S,S,10447.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,403,L,L,10448.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,404,A,A,10448.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,405,S,S,10448.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,406,W,W,13158.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,407,V,V,18575.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,408,Q,Q,18574.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,409,N,N,18576.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,410,E,E,18580.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,411,F,F,18581.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,412,N,N,18582.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,413,K,K,18582.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,414,A,A,22988.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,415,C,C,22988.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,416,E,E,22989.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,417,L,L,22989.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,418,T,T,24412.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,419,D,D,27230.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,420,S,S,27168.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,421,S,S,27168.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,422,W,W,27167.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,423,I,I,27166.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,424,E,E,27165.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,425,L,L,27160.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,426,D,D,18919.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,427,E,E,18864.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,428,I,I,18864.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,429,G,G,18864.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,430,E,E,18863.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,431,D,D,18862.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,432,V,V,18861.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,433,A,A,18860.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,434,P,P,18861.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,435,I,I,18860.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,436,E,E,18904.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,437,H,H,18927.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,438,I,V,18927.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,439,A,A,18939.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,440,S,S,18939.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,441,M,M,18938.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,442,R,R,18937.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,443,R,R,18936.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,444,N,N,18935.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,445,Y,Y,18927.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,446,F,F,18911.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,447,T,T,17566.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,448,A,A,16898.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,449,E,E,16898.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,450,V,V,18681.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,451,S,S,22250.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,452,H,H,22250.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,453,C,C,22250.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,454,R,R,22249.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,455,A,A,22250.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,456,T,T,19539.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,457,E,E,14119.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,458,Y,Y,14118.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,459,I,I,19773.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,460,M,M,22596.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,461,K,K,22591.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,462,G,G,22585.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,463,V,V,22582.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,464,Y,Y,18167.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,465,I,I,18163.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,466,N,N,18162.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,467,T,T,18155.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,468,A,A,16733.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,469,L,L,13886.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,470,L,L,13870.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,471,N,N,13843.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,472,A,A,13843.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,473,S,S,13843.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,474,C,C,13843.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,475,A,A,13842.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,476,A,A,22972.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,477,M,M,28558.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,478,D,D,33702.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,479,D,D,33703.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,480,F,F,33706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,481,Q,Q,33707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,482,L,L,33707.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,483,I,I,33706.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,484,P,P,33706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,485,M,M,33706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,486,I,I,33706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,487,S,S,33706.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,488,K,K,33705.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,489,C,C,33705.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,490,R,R,33704.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,491,T,T,33704.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,492,K,K,33704.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,493,E,E,35772.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,494,G,G,39905.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,495,R,R,39908.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,496,R,R,39913.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,497,K,K,39919.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,498,T,T,39919.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,499,N,N,41683.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,500,L,L,43429.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,501,Y,Y,39865.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,502,G,G,39864.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,503,F,F,39855.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,504,I,I,39823.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,505,I,V,39704.0,Other Mutation,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,506,K,K,39703.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,507,G,G,39703.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,508,R,R,39699.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,509,S,S,34151.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,510,H,H,31377.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,511,L,L,31377.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,512,R,R,31378.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,513,N,N,31370.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,514,D,D,31349.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,515,T,T,34660.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,516,D,D,36302.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,517,V,V,36289.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,518,V,V,36367.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,519,N,N,36409.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,520,F,F,30895.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,521,V,V,28141.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,522,S,S,28140.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,523,M,M,28139.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,524,E,E,28136.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,525,F,F,28133.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,526,S,S,21804.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,527,L,L,21801.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,528,T,T,16667.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,529,D,D,16615.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,530,P,P,16516.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,531,R,R,20309.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,532,L,L,20349.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,533,E,E,27359.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,534,P,P,27357.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,535,H,H,27376.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,536,K,K,23425.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,537,W,W,21462.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,538,E,E,23756.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,539,K,K,28338.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,540,Y,Y,28331.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,541,C,C,28267.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,542,V,V,23054.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,543,L,L,23055.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,544,E,E,23154.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,545,I,I,23204.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,546,G,G,23205.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,547,D,D,23204.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,548,M,M,23204.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,549,L,L,23204.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,550,L,L,23205.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,551,R,R,23207.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,552,T,T,23206.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,553,A,A,23207.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,554,I,I,23208.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,555,G,G,23207.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,556,Q,Q,23207.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,557,V,V,23208.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,558,S,S,23208.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,559,R,R,23206.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,560,P,P,23204.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,561,M,M,23205.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,562,F,F,23205.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,563,L,L,23206.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,564,Y,Y,23205.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,565,V,V,19783.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,566,R,R,18071.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,567,T,T,18071.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,568,N,N,18071.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,569,G,G,18071.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,570,T,T,18070.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,571,S,S,18065.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,572,K,K,18055.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,573,I,I,18055.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,574,K,K,18055.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,575,M,M,18053.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,576,K,K,18051.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,577,W,W,18047.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,578,G,G,18033.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,579,M,M,15445.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,580,E,E,14149.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,581,M,M,14145.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,582,R,R,14140.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,583,R,R,7042.333333333333,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,584,C,C,7040.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,585,L,L,7040.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,586,L,L,7039.666666666667,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,587,Q,Q,7031.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,588,S,S,4734.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,589,L,X,152.0,Stop/Ambig,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,590,Q,Q,151.66666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,591,Q,Q,151.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,592,I,X,151.0,Stop/Ambig,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,593,E,E,151.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,594,S,X,50.333333333333336,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,595,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,596,I,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,597,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,598,A,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,599,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,600,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,601,S,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,602,V,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,603,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,604,E,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,605,K,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,606,D,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,607,M,X,0.0,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,608,T,X,4.666666666666667,Low Coverage,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,609,K,K,3924.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,610,E,E,3925.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,611,F,F,3927.3333333333335,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,612,F,F,3928.6666666666665,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,613,E,E,8629.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,614,N,N,10983.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,615,K,K,10983.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,616,S,S,10983.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,617,E,E,10982.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,618,T,T,14785.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,619,W,W,16688.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,620,P,P,16689.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,621,I,I,16691.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,622,G,G,16694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,623,E,E,16694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,624,S,S,16694.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,625,P,P,16693.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,626,R,R,16694.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,627,G,G,16694.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,628,V,V,16690.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,629,E,E,16686.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,630,E,E,16687.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,631,G,G,16689.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,632,S,S,16689.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,633,I,I,16689.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,634,G,G,16681.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,635,K,K,16691.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,636,V,V,16690.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,637,C,C,16690.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,638,R,R,16691.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,639,T,T,16692.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,640,L,L,16692.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,641,L,L,16691.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,642,A,A,16688.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,643,K,K,16689.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,644,S,S,21217.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,645,V,V,21217.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,646,F,F,21285.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,647,N,N,21332.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,648,S,S,21341.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,649,L,L,21343.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,650,Y,Y,21343.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,651,A,A,21341.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,652,S,S,21345.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,653,P,P,21349.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,654,Q,Q,21352.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,655,L,L,21350.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,656,E,E,21344.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,657,G,G,21338.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,658,F,F,21322.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,659,S,S,17362.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,660,A,A,17341.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,661,E,E,17337.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,662,S,S,17292.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,663,R,R,12632.333333333334,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,664,K,K,10309.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,665,L,L,12616.666666666666,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,666,L,L,17246.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,667,L,L,21922.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,668,I,I,20754.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,669,V,V,18892.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,670,Q,Q,18897.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,671,A,A,18900.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,672,L,L,18902.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,673,R,R,18904.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,674,D,D,18905.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,675,N,N,18914.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,676,L,L,18976.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,677,E,E,19039.333333333332,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,678,P,P,19042.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,679,G,G,29508.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,680,T,T,29488.666666666668,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,681,F,F,29480.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,682,D,D,39986.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,683,L,L,45570.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,684,G,G,47711.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,685,G,G,47771.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,686,L,L,55194.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,687,Y,Y,58847.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,688,E,E,58854.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,689,A,A,58860.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,690,I,I,58858.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,691,E,E,58855.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,692,E,E,58834.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,693,C,C,58811.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,694,L,L,54232.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,695,I,I,54235.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,696,N,N,54221.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,697,D,D,54214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,698,P,P,54214.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,699,W,W,54214.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,700,V,V,54214.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,701,L,L,54215.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,702,L,L,54216.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,703,N,N,54216.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,704,A,A,54215.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,705,S,S,54212.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,706,W,W,54207.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,707,F,F,54202.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,708,N,N,54179.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,709,S,S,49478.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,710,F,F,47167.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,711,L,L,47158.333333333336,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,712,T,T,47154.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,713,H,H,47153.0,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,714,A,A,47108.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,715,L,L,42252.666666666664,Ref,False,False
+H1N1 (SA_10),A(H1N1)pdm09,PA,716,K,K,32563.333333333332,Ref,False,False

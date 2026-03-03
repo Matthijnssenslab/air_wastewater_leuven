@@ -1,0 +1,5 @@
+sample,virus,gene,aa_len,match_pct
+H1N1 (SA_10),A(H1N1)pdm09,HA,566,84.98
+H1N1 (SA_10),A(H1N1)pdm09,M2,97,87.63
+H1N1 (SA_10),A(H1N1)pdm09,NA,469,74.2
+H1N1 (SA_10),A(H1N1)pdm09,PA,716,94.13

@@ -1,0 +1,26 @@
+sample,virus,gene,aa_pos,ref_aa,cons_aa,depth,status,is_resistance,res_mut_found,expected_mutations
+H1N1 (SA_10),A(H1N1)pdm09,HA,130,R,R,2158.0,Ref,True,False,E;N
+H1N1 (SA_10),A(H1N1)pdm09,HA,137,T,T,2158.0,Ref,True,False,S
+H1N1 (SA_10),A(H1N1)pdm09,HA,142,N,N,2158.0,Ref,True,False,R
+H1N1 (SA_10),A(H1N1)pdm09,HA,156,A,A,2158.0,Ref,True,False,K
+H1N1 (SA_10),A(H1N1)pdm09,HA,186,K,X,0.0,Low Coverage,True,False,T
+H1N1 (SA_10),A(H1N1)pdm09,HA,189,E,X,0.0,Low Coverage,True,False,E
+H1N1 (SA_10),A(H1N1)pdm09,HA,224,S,S,12652.0,Ref,True,False,A
+H1N1 (SA_10),A(H1N1)pdm09,HA,225,K,K,12653.0,Ref,True,False,G;N
+H1N1 (SA_10),A(H1N1)pdm09,NA,114,V,V,1680.0,Ref,True,False,I
+H1N1 (SA_10),A(H1N1)pdm09,NA,136,Q,Q,1675.3333333333333,Ref,True,False,K
+H1N1 (SA_10),A(H1N1)pdm09,NA,155,Y,Y,6437.0,Ref,True,False,H
+H1N1 (SA_10),A(H1N1)pdm09,NA,199,D,D,10918.0,Ref,True,False,G;Y
+H1N1 (SA_10),A(H1N1)pdm09,NA,223,I,I,8912.0,Ref,True,False,R;T;V
+H1N1 (SA_10),A(H1N1)pdm09,NA,247,S,S,12515.0,Ref,True,False,N
+H1N1 (SA_10),A(H1N1)pdm09,NA,275,H,H,12653.0,Ref,True,False,Y
+H1N1 (SA_10),A(H1N1)pdm09,NA,295,N,N,9973.666666666666,Ref,True,False,S
+H1N1 (SA_10),A(H1N1)pdm09,M2,26,L,L,44793.0,Ref,True,False,F
+H1N1 (SA_10),A(H1N1)pdm09,M2,27,V,V,44796.333333333336,Ref,True,False,A
+H1N1 (SA_10),A(H1N1)pdm09,M2,30,A,A,49367.666666666664,Ref,True,False,T
+H1N1 (SA_10),A(H1N1)pdm09,M2,31,N,N,49365.0,Ref,True,True,N
+H1N1 (SA_10),A(H1N1)pdm09,M2,34,G,G,55314.666666666664,Ref,True,False,E
+H1N1 (SA_10),A(H1N1)pdm09,PA,23,E,E,5143.0,Ref,True,False,G;K
+H1N1 (SA_10),A(H1N1)pdm09,PA,37,A,A,7255.0,Ref,True,False,T
+H1N1 (SA_10),A(H1N1)pdm09,PA,38,I,I,7255.0,Ref,True,False,F;L;M;N;T
+H1N1 (SA_10),A(H1N1)pdm09,PA,199,E,E,39801.0,Ref,True,False,D
