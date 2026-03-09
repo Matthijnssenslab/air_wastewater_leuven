@@ -52,9 +52,9 @@ completeness_counts <- filtered_data_with_type %>%
   group_by(sample_ID, sample_type, completeness_bin) %>%
   summarise(n_detections = n(), .groups = "drop")
 
-completeness_means <- completeness_counts %>%
+completeness_medians <- completeness_counts %>%
   group_by(sample_type, completeness_bin) %>%
-  summarise(mean_detections = mean(n_detections, na.rm = TRUE), .groups = "drop")
+  summarise(median_detections = median(n_detections, na.rm = TRUE), .groups = "drop")
 
 panel_b <- ggplot(completeness_counts,
                   aes(x = completeness_bin, y = n_detections, fill = sample_type)) +
@@ -64,8 +64,8 @@ panel_b <- ggplot(completeness_counts,
   geom_jitter(aes(color = sample_type),
               position = position_jitterdodge(jitter.width = 0.12, dodge.width = 0.8),
               alpha = 0.2, size = 1) +
-  geom_text(data = completeness_means,
-            aes(x = completeness_bin, y = mean_detections, label = round(mean_detections, 1),
+  geom_text(data = completeness_medians,
+            aes(x = completeness_bin, y = median_detections, label = round(median_detections, 1),
                 group = sample_type),
             position = position_dodge(width = 0.8),
             color = "black", fontface = "bold", vjust = -0.6, inherit.aes = FALSE) +
