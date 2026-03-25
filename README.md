@@ -39,7 +39,7 @@ The pre-filtering step is implemented in `scripts/filter_data.R`. It removes kno
 A single set of filtering criteria is applied to the raw data:
 - **Baseline Requirements**: >= 500 bp coverage OR >= 50% genome completeness.
 - **Minimum Abundance**: > 10 reads aligned AND > 1 read per million (RPM).
-- **Large Genomes**: Contigs > 100kb must have > 3000 bp coverage.
+- **Large Genomes**: References with > 100kb genomes must have > 3000 bp coverage.
 - **Contaminant Removal**: Specific contaminants (e.g., *Parvovirus NIH-CQV*, *Alphamesonivirus*) and known artifactual signals (e.g., low-coverage *Human mastadenovirus C*) are excluded.
 
 ## Clinical datasets
