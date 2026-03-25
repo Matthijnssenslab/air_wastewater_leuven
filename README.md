@@ -1,6 +1,9 @@
 # Emergency department indoor-air hybrid-capture metagenomics complements wastewater by adding a human-focused respiratory virus perspective
 
-Thank you for your interest in our study!
+Thank you for your interest in our study! 
+
+**Preprint**: A Tale of Two Lenses: Emergency department indoor-air hybrid-capture metagenomics complements wastewater by adding a human-focused respiratory virus perspective
+[https://www.medrxiv.org/content/10.64898/2026.03.13.26348311v1](url)
 
 This repository contains processed datasets and R scripts to reproduce the analyses and figures from the study. It also documents how the raw reads were processed so the workflow can be reproduced end-to-end.
 
